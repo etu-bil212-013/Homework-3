@@ -1,0 +1,7 @@
+B - A
+S - X
+B - C
+D - C
+G - D
+A - D
+M - N

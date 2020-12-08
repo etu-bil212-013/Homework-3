@@ -1,0 +1,9 @@
+P - R
+A - B
+B - C
+K - L
+C - D
+C - G
+X - T
+D - E
+D - F
